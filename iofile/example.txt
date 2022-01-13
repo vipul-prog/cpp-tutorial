@@ -1,0 +1,2 @@
+Writing this to a file. 
+Next Line in app or append mode using ios::app
